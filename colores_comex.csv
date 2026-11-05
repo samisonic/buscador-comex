@@ -44,7 +44,7 @@
 015-01,Andino,Offwhites,6,3,3,0,235,246,246
 015-02,Ráfaga,Offwhites,9,5,5,0,228,240,242
 015-03,Glacial,Offwhites,8,4,3,0,229,244,247
-016-01,Polo,Sur Offwhites,7,3,4,0,234,246,243
+016-01,Polo Sur,Offwhites,7,3,4,0,234,246,243
 016-02,Cabra,Offwhites,7,4,5,0,233,243,242
 016-03,Harina,Offwhites,8,4,5,0,231,243,242
 017-01,Sídney,Offwhites,7,3,4,0,234,247,244
@@ -62,7 +62,7 @@
 021-01,Luxor,Amarillos,2,2,11,0,251,250,227
 021-02,Sonata,Amarillos,25,16,6,0,182,213,239
 021-03,Manteca,Amarillos,2,3,29,0,252,246,180
-021-04,Nuevo,Día Amarillos,2,4,37,0,253,244,157
+021-04,Nuevo Día,Amarillos,2,4,37,0,253,244,157
 021-05,Limoncillo,Amarillos,3,9,60,0,253,232,90
 021-06,Barlet,Amarillos,5,12,72,0,248,225,49
 021-07,Ácido,Amarillos,7,15,94,0,244,215,0
@@ -84,7 +84,7 @@
 024-02,Sake,Amarillos,12,12,19,0,223,222,203
 024-03,Sagú,Amarillos,17,18,30,0,210,206,174
 024-04,Lúcuma,Amarillos,24,26,42,0,190,183,141
-024-05,Canción,de la India Amarillos,12,18,8,0,228,209,235
+024-05,Canción de la India,Amarillos,12,18,8,0,228,209,235
 024-06,Salal,Amarillos,39,42,60,17,148,139,89
 024-07,Pepinillo,Amarillos,39,42,65,17,150,137,72
 025-01,Lana,Amarillos,2,2,12,0,251,249,225
@@ -103,11 +103,11 @@
 026-07,Aflorar,Amarillos,14,26,80,0,226,185,12
 027-01,Compota,Amarillos,2,3,10,0,251,247,229
 027-02,Éter,Amarillos,3,6,19,0,248,239,206
-027-03,Cera,de Abeja Amarillos,5,10,30,0,246,229,175
-027-04,Art,Decó Amarillos,8,14,39,0,238,217,152
+027-03,Cera de Abeja,Amarillos,5,10,30,0,246,229,175
+027-04,Art Decó,Amarillos,8,14,39,0,238,217,152
 027-05,Pampa,Amarillos,15,24,58,0,221,192,98
-027-06,Zona,Austral Amarillos,19,28,65,0,212,179,75
-027-07,Orégano,Seco Amarillos,26,35,72,0,192,160,53
+027-06,Zona Austral,Amarillos,19,28,65,0,212,179,75
+027-07,Orégano Seco,Amarillos,26,35,72,0,192,160,53
 028-01,Celery,Amarillos,8,9,14,0,232,231,216
 028-02,Ventilador,Amarillos,12,13,20,0,223,221,201
 028-03,Martín,Amarillos,17,19,31,0,210,204,172
@@ -116,16 +116,16 @@
 028-06,Marginata,Amarillos,39,43,60,17,150,137,87
 028-07,Areca,Amarillos,38,44,66,16,154,134,70
 029-01,Papiro,Amarillos,1,2,11,0,252,249,227
-029-02,Luz,Alegre Amarillos,1,4,21,0,255,244,200
+029-02,Luz Alegre,Amarillos,1,4,21,0,255,244,200
 029-03,Aula,Amarillos,1,6,32,0,255,241,171
 029-04,Pupitre,Amarillos,0,8,42,0,255,235,144
-029-05,Brillo,Radiante Amarillos,2,14,65,0,255,220,75
+029-05,Brillo Radiante,Amarillos,2,14,65,0,255,220,75
 029-06,Escándalo,Amarillos,3,18,77,0,255,210,30
 029-07,Maracuyá,Amarillos,5,22,89,0,255,198,0
 030-01,Acercamiento,Amarillos,2,3,11,0,251,247,226
 030-02,Balada,Amarillos,1,5,19,0,254,243,204
 030-03,Franela,Amarillos,3,9,33,0,252,233,168
-030-04,Orilla,del Mar Amarillos,4,12,42,0,250,224,144
+030-04,Orilla del Mar,Amarillos,4,12,42,0,250,224,144
 030-05,Chasquido,Amarillos,9,20,62,0,242,203,85
 030-06,Kaló,Amarillos,11,24,70,0,237,193,61
 030-07,Bohemio,Amarillos,15,29,78,0,225,177,30
@@ -142,7 +142,7 @@
 032-04,Solidago,Amarillos,25,28,44,0,189,177,136
 032-05,Anona,Amarillos,33,38,56,9,167,151,101
 032-06,Lentil,Amarillos,21,21,16,0,198,199,211
-032-07,Caña,de Azúcar Amarillos,47,19,27,0,77,203,182
+032-07,Caña de Azúcar,Amarillos,47,19,27,0,77,203,182
 033-01,Angora,Amarillos,1,3,11,0,252,248,228
 033-02,Ravioli,Amarillos,1,4,20,0,255,244,202
 033-03,Pálido,Amarillos,1,7,32,0,255,238,171
@@ -157,7 +157,7 @@
 034-05,Babilonia,Amarillos,9,23,63,0,242,195,83
 034-06,Batel,Amarillos,12,27,69,0,236,184,63
 034-07,Banquete,Amarillos,19,23,23,0,205,192,193
-035-01,Luz,de Luna Amarillos,2,3,10,0,251,246,228
+035-01,Luz de Luna,Amarillos,2,3,10,0,251,246,228
 035-02,Pandero,Amarillos,4,7,20,0,249,236,202
 035-03,Greca,Amarillos,6,13,33,0,244,222,169
 035-04,Trombón,Amarillos,9,18,41,0,237,208,146
@@ -180,18 +180,18 @@
 037-07,Colmena,Amarillos,6,29,86,0,255,180,0
 038-01,Adoquín,Amarillos,2,3,12,0,252,246,224
 038-02,Cáliz,Amarillos,2,6,21,0,255,240,202
-038-03,Globo,de Cantolla Amarillos,3,11,34,0,253,226,165
+038-03,Globo de Cantolla,Amarillos,3,11,34,0,253,226,165
 038-04,Raíz,Amarillos,5,15,43,0,251,216,141
 038-05,Lejano,Amarillos,9,25,64,0,242,190,82
 038-06,Candelabro,Amarillos,2,2,9,0,249,249,230
 038-07,Ají,Amarillos,18,36,76,0,222,160,43
-039-01,Amarillo,de Encanto Amarillos,2,4,11,0,252,245,225
+039-01,Amarillo de Encanto,Amarillos,2,4,11,0,252,245,225
 039-02,Bordado,Amarillos,4,8,21,0,249,234,199
-039-03,Traje,de Lino Amarillos,6,14,34,0,245,219,167
-039-04,Crema,Dulce Amarillos,9,19,42,0,238,205,144
+039-03,Traje de Lino,Amarillos,6,14,34,0,245,219,167
+039-04,Crema Dulce,Amarillos,9,19,42,0,238,205,144
 039-05,Sémola,Amarillos,17,31,61,0,219,174,90
 039-06,Paca,Amarillos,22,36,67,0,207,159,71
-039-07,Espanta,Pájaros Amarillos,29,43,72,3,187,139,54
+039-07,Espanta Pájaros,Amarillos,29,43,72,3,187,139,54
 040-01,Botón,Amarillos,9,10,15,0,232,228,214
 040-02,Espina,Amarillos,12,14,21,0,223,218,198
 040-03,Cebada,Amarillos,17,20,32,0,210,199,169
@@ -270,7 +270,7 @@
 050-06,Hojuela,Naranjas,16,40,69,0,230,150,67
 050-07,Quebracho,Naranjas,22,48,74,0,213,128,51
 051-01,Cigüeña,Naranjas,2,6,13,0,252,240,221
-051-02,Palillos,Chinos Naranjas,5,12,24,0,248,224,194
+051-02,Palillos Chinos,Naranjas,5,12,24,0,248,224,194
 051-03,Guayabitos,Naranjas,9,20,36,0,241,204,161
 051-04,Canela,Naranjas,41,57,43,20,154,99,137
 051-05,Festín,Naranjas,22,41,62,0,208,146,85
@@ -286,7 +286,7 @@
 053-01,Maritza,Naranjas,1,4,11,0,253,245,228
 053-02,Yute,Naranjas,1,8,20,0,255,235,203
 053-03,Mantecado,Naranjas,2,13,31,0,255,222,175
-053-04,Flan,Napolitano Naranjas,4,20,42,0,255,205,146
+053-04,Flan Napolitano,Naranjas,4,20,42,0,255,205,146
 053-05,Resplandor,Naranjas,7,32,62,0,255,174,89
 053-06,Jalea,Naranjas,9,38,71,0,252,158,63
 053-07,Enigma,Naranjas,12,47,79,0,245,134,36
@@ -329,10 +329,10 @@
 059-02,Valla,Naranjas,5,14,24,0,248,219,192
 059-03,Nibelungo,Naranjas,9,23,37,0,240,196,158
 059-04,Mimbre,Naranjas,14,30,46,0,231,177,134
-059-05,Granito,Ántico Naranjas,24,45,64,0,204,134,82
+059-05,Granito Ántico,Naranjas,24,45,64,0,204,134,82
 059-06,Sahara,Naranjas,28,50,67,2,192,122,72
 059-07,Azufre,Naranjas,35,56,71,12,173,102,59
-060-01,Media,Luz Naranjas,10,13,18,0,229,219,206
+060-01,Media Luz,Naranjas,10,13,18,0,229,219,206
 060-02,Charamusca,Naranjas,13,17,23,0,223,209,192
 060-03,Tarima,Naranjas,20,27,36,0,205,181,157
 060-04,Fisgón,Naranjas,32,41,53,7,175,142,110
@@ -357,7 +357,7 @@
 063-02,Penélope,Naranjas,5,14,24,0,250,219,193
 063-03,Migaja,Naranjas,9,23,36,0,243,195,160
 063-04,Oboe,Naranjas,13,30,45,0,234,176,136
-063-05,Medio,Día Naranjas,22,45,62,0,211,136,87
+063-05,Medio Día,Naranjas,22,45,62,0,211,136,87
 063-06,Kiosco,Naranjas,27,50,67,0,198,121,73
 063-07,Centauro,Naranjas,34,56,70,10,178,103,64
 064-01,Cestería,Naranjas,10,13,18,0,231,220,207
@@ -376,7 +376,7 @@
 065-07,Calabaza,Naranjas,16,56,77,0,237,109,46
 066-01,Translúcido,Naranjas,2,6,11,0,254,240,226
 066-02,Garbanzo,Naranjas,3,13,22,0,255,223,199
-066-03,Nuez,de la India Naranjas,5,20,33,0,254,203,169
+066-03,Nuez de la India,Naranjas,5,20,33,0,254,203,169
 066-04,Laminado,Naranjas,7,27,42,0,251,185,145
 066-05,Tipi,Naranjas,14,42,61,0,236,145,93
 066-06,Gitano,Naranjas,18,48,67,0,227,128,75
@@ -388,7 +388,7 @@
 067-05,Bronceado,Naranjas,26,50,64,0,199,122,81
 067-06,Antigüedad,Naranjas,4,2,18,0,241,248,207
 067-07,Ladrillo,Naranjas,37,60,71,15,168,92,59
-068-01,Cima,del Everest Naranjas,10,14,18,0,231,218,206
+068-01,Cima del Everest,Naranjas,10,14,18,0,231,218,206
 068-02,Chalupa,Naranjas,14,19,25,0,221,203,189
 068-03,Istmo,Naranjas,21,29,37,0,206,176,156
 068-04,Mantecada,Naranjas,32,44,53,7,176,136,110
@@ -404,10 +404,10 @@
 069-07,Lumbre,Naranjas,16,57,76,0,236,106,51
 070-01,Pulcro,Naranjas,1,6,10,0,255,240,229
 070-02,Crepas,Naranjas,4,14,21,0,254,220,200
-070-03,Ala,de Pájaro Naranjas,6,22,33,0,253,199,170
+070-03,Ala de Pájaro,Naranjas,6,22,33,0,253,199,170
 070-04,Bandita,Naranjas,9,29,41,0,248,181,148
 070-05,Baloncesto,Naranjas,16,44,60,0,232,138,94
-070-06,Arrecife,de Coral Naranjas,20,50,66,0,222,122,77
+070-06,Arrecife de Coral,Naranjas,20,50,66,0,222,122,77
 070-07,Careta,Naranjas,27,59,73,0,201,98,57
 071-01,Capela,Naranjas,4,10,16,0,250,229,213
 071-02,Morona,Naranjas,7,18,26,0,245,209,187
@@ -437,12 +437,12 @@
 074-05,Cachorro,Naranjas,16,46,60,0,234,135,95
 074-06,Melena,Naranjas,19,53,67,0,224,116,76
 074-07,Cresta,Naranjas,27,61,73,0,202,91,58
-075-01,Caracol,de Mar Naranjas,4,12,17,0,250,225,210
+075-01,Caracol de Mar,Naranjas,4,12,17,0,250,225,210
 075-02,Jarrón,Naranjas,7,19,26,0,247,205,187
 075-03,Nativo,Naranjas,13,31,39,0,234,175,151
 075-04,Mecedora,Naranjas,18,38,48,0,223,154,129
 075-05,Fenicia,Naranjas,29,54,65,3,193,109,80
-075-06,Gran,Cañón Naranjas,33,59,69,9,181,95,66
+075-06,Gran Cañón,Naranjas,33,59,69,9,181,95,66
 075-07,Terracota,Naranjas,39,64,73,18,163,78,53
 076-01,Copal,Naranjas,10,16,20,0,231,213,203
 076-02,Mayo,Naranjas,15,22,27,0,220,195,183
@@ -457,11 +457,11 @@
 077-04,Energizante,Naranjas,6,30,40,0,255,178,152
 077-05,Cosquillas,Naranjas,12,47,59,0,246,134,98
 077-06,Disparado,Naranjas,15,54,67,0,239,112,76
-077-07,Nuevo,Amanecer Naranjas,21,64,76,0,225,84,50
+077-07,Nuevo Amanecer,Naranjas,21,64,76,0,225,84,50
 078-01,Cremoso,Naranjas,2,7,11,0,253,237,227
-078-02,Muro,de Cantera Naranjas,4,14,20,0,252,218,202
+078-02,Muro de Cantera,Naranjas,4,14,20,0,252,218,202
 078-03,Mallorca,Naranjas,7,24,32,0,249,194,173
-078-04,Estrella,de Mar Naranjas,10,31,40,0,244,175,151
+078-04,Estrella de Mar,Naranjas,10,31,40,0,244,175,151
 078-05,Consultorio,Naranjas,18,48,59,0,227,129,97
 078-06,Marte,Naranjas,22,55,66,0,217,110,79
 078-07,Petra,Naranjas,29,63,72,3,196,86,60
@@ -482,7 +482,7 @@
 081-01,Bombón,Rojos,2,7,9,0,255,238,231
 081-02,Aromático,Rojos,3,14,18,0,255,218,209
 081-03,Liz,Rojos,6,25,30,0,253,190,178
-081-04,Taca,Taca Rojos,8,33,39,0,251,170,155
+081-04,Taca Taca,Rojos,8,33,39,0,251,170,155
 081-05,Broma,Rojos,15,51,58,0,239,122,103
 081-06,Pérsimo,Rojos,18,59,67,0,232,98,77
 081-07,Celebración,Rojos,24,69,75,0,215,71,54
@@ -503,7 +503,7 @@
 084-01,Manicure,Rojos,13,19,21,0,227,203,200
 084-02,Bellini,Rojos,16,25,26,0,218,189,185
 084-03,Blush,Rojos,24,37,38,0,198,155,151
-084-04,Frutos,del Bosque Rojos,37,53,55,14,164,111,104
+084-04,Frutos del Bosque,Rojos,37,53,55,14,164,111,104
 084-05,Vasija,Rojos,44,61,63,25,143,88,80
 084-06,Carreta,Rojos,50,66,69,33,125,72,62
 084-07,Danzantes,Rojos,53,67,71,37,116,66,57
@@ -523,7 +523,7 @@
 086-07,Alizarin,Rojos,36,73,75,12,178,55,52
 087-01,Valentino,Rojos,4,10,11,0,250,228,227
 087-02,Nonna,Rojos,8,21,21,0,243,199,200
-087-03,Palo,de Rosa Rojos,14,33,32,0,230,168,170
+087-03,Palo de Rosa,Rojos,14,33,32,0,230,168,170
 087-04,Zoete,Rojos,19,41,40,0,219,147,150
 087-05,Querétaro,Rojos,31,59,59,5,189,97,96
 087-06,Caliza,Rojos,37,65,65,14,171,78,76
@@ -555,11 +555,11 @@
 091-04,Remolacha,Rojos,18,37,34,0,222,157,166
 091-05,Épsilon,Rojos,29,55,52,3,193,106,114
 091-06,Cabernet,Rojos,35,64,61,12,177,82,89
-091-07,Bloody,Mary Rojos,45,72,72,26,146,55,55
+091-07,Bloody Mary,Rojos,45,72,72,26,146,55,55
 092-01,Pureza,Rojos,11,16,15,0,228,212,216
-092-02,Amor,Eterno Rojos,15,22,20,0,219,196,202
+092-02,Amor Eterno,Rojos,15,22,20,0,219,196,202
 092-03,Brezo,Rojos,23,34,30,0,202,164,174
-092-04,Tarde,en París Rojos,34,49,46,11,171,120,130
+092-04,Tarde en París,Rojos,34,49,46,11,171,120,130
 092-05,Labial,Rojos,42,58,55,21,151,94,102
 092-06,Cántaro,Rojos,32,30,45,4,163,172,130
 092-07,Acantilado,Rojos,55,71,72,40,111,54,51
@@ -602,12 +602,12 @@
 098-02,Vástago,Magentas,7,18,13,0,244,207,222
 098-03,Comprensión,Magentas,12,30,21,0,236,177,200
 098-04,Reto,Magentas,16,37,27,0,227,158,184
-098-05,Rosa,Profundo Magentas,26,56,45,0,203,104,135
+098-05,Rosa Profundo,Magentas,26,56,45,0,203,104,135
 098-06,Estuche,Magentas,32,65,54,7,188,79,108
 098-07,Betabel,Magentas,42,74,69,22,157,50,66
 099-01,Inocencia,Magentas,5,11,8,0,247,228,235
 099-02,Angelical,Magentas,10,20,14,0,238,202,217
-099-03,Mousse,de Fresa Magentas,15,32,22,0,229,172,197
+099-03,Mousse de Fresa,Magentas,15,32,22,0,229,172,197
 099-04,Kina,Magentas,20,39,30,0,216,150,176
 099-05,Taide,Magentas,32,58,47,7,185,98,127
 099-06,Aheri,Magentas,38,66,57,16,168,75,100
@@ -654,9 +654,9 @@
 105-05,Patines,Magentas,23,57,39,0,213,103,151
 105-06,Melliza,Magentas,28,68,50,2,202,71,123
 105-07,Éxtasis,Magentas,36,79,64,13,178,38,81
-106-01,Dulce,Ángel Magentas,5,11,6,0,248,227,239
+106-01,Dulce Ángel,Magentas,5,11,6,0,248,227,239
 106-02,Praliné,Magentas,9,20,12,0,241,202,223
-106-03,Por,Siempre Magentas,13,31,19,0,234,174,205
+106-03,Por Siempre,Magentas,13,31,19,0,234,174,205
 106-04,Trompita,Magentas,18,39,25,0,224,152,188
 106-05,Aplauso,Magentas,28,58,42,1,199,100,143
 106-06,Irresistible,Magentas,33,67,51,9,184,72,117
@@ -683,7 +683,7 @@
 109-06,Crochet,Magentas,29,66,48,3,197,79,126
 109-07,Secreto,Magentas,38,74,61,15,172,51,89
 110-01,Nena,Magentas,5,10,5,0,247,230,241
-110-02,Garza,Rosada Magentas,9,19,12,0,241,204,225
+110-02,Garza Rosada,Magentas,9,19,12,0,241,204,225
 110-03,Delicioso,Magentas,14,30,19,0,231,175,206
 110-04,Pinky,Magentas,18,38,25,0,220,154,189
 110-05,Flor,Magentas,29,56,41,3,193,103,144
@@ -712,12 +712,12 @@
 113-07,Bugambilia,Magentas,35,77,58,11,183,46,100
 114-01,Mameluco,Magentas,4,9,5,0,249,231,241
 114-02,Pop,Magentas,8,19,11,0,241,205,227
-114-03,Primer,Amor Magentas,13,30,17,0,232,177,209
+114-03,Primer Amor,Magentas,13,30,17,0,232,177,209
 114-04,Valeria,Magentas,18,37,23,0,223,156,195
 114-05,Frazada,Magentas,28,56,39,2,197,104,151
-114-06,Toque,Mágico Magentas,33,65,47,9,183,79,128
-114-07,Amor,Platónico Magentas,44,74,61,24,152,50,88
-115-01,Flor,de Campo Magentas,5,9,6,0,247,230,239
+114-06,Toque Mágico,Magentas,33,65,47,9,183,79,128
+114-07,Amor Platónico,Magentas,44,74,61,24,152,50,88
+115-01,Flor de Campo,Magentas,5,9,6,0,247,230,239
 115-02,Dulcinea,Magentas,9,19,12,0,238,205,223
 115-03,Artesanal,Magentas,15,30,18,0,228,177,207
 115-04,Colonia,Magentas,19,37,24,0,216,157,192
@@ -731,18 +731,18 @@
 116-05,Vanidad,Magentas,41,57,43,21,151,99,135
 116-06,Médici,Magentas,52,66,54,35,120,72,103
 116-07,Santino,Magentas,60,73,68,47,95,48,63
-117-01,Dulce,Placer Magentas,5,11,6,0,248,228,239
-117-02,Cuarzo,Rosa Magentas,8,21,10,0,243,202,229
+117-01,Dulce Placer,Magentas,5,11,6,0,248,228,239
+117-02,Cuarzo Rosa,Magentas,8,21,10,0,243,202,229
 117-03,Poesía,Magentas,12,30,14,0,237,178,217
 117-04,Ninfa,Magentas,17,55,50,0,233,110,124
 117-05,Listón,Magentas,24,57,34,0,210,104,165
 117-06,Broche,Magentas,29,67,43,2,200,73,140
 117-07,Lollipop,Magentas,36,78,57,14,177,41,101
-118-01,Alma,Fresca Magentas,4,9,5,0,249,232,241
+118-01,Alma Fresca,Magentas,4,9,5,0,249,232,241
 118-02,Glow,Magentas,8,19,10,0,242,206,229
 118-03,Risas,Magentas,13,29,16,0,232,178,213
 118-04,Lulabell,Magentas,18,37,21,0,223,156,199
-118-05,Quince,Años Magentas,28,56,36,1,197,106,159
+118-05,Quince Años,Magentas,28,56,36,1,197,106,159
 118-06,Condesa,Magentas,34,65,45,9,182,78,134
 118-07,Alquimista,Magentas,44,75,60,25,150,48,92
 119-01,Poema,Magentas,5,11,7,0,245,226,238
@@ -750,7 +750,7 @@
 119-03,Natalia,Magentas,15,30,17,0,228,176,211
 119-04,Hada,Magentas,19,37,22,0,216,157,196
 119-05,Mantra,Magentas,32,56,38,7,184,104,151
-119-06,Nieve,de Zarzamora Magentas,38,65,47,16,166,77,126
+119-06,Nieve de Zarzamora,Magentas,38,65,47,16,166,77,126
 119-07,Marquesa,Magentas,53,75,65,37,120,46,74
 120-01,Sashimi,Magentas,12,15,11,0,225,214,224
 120-02,Verso,Magentas,15,21,14,0,218,200,218
@@ -774,14 +774,14 @@
 122-06,Cósmica,Magentas,34,62,44,11,178,85,136
 122-07,Brebaje,Magentas,45,72,57,26,147,56,100
 123-01,Cosmo,Magentas,5,10,6,0,245,229,238
-123-02,Deja,Vú Magentas,9,18,10,0,237,208,228
+123-02,Deja Vú,Magentas,9,18,10,0,237,208,228
 123-03,Elisa,Magentas,16,28,16,0,223,180,211
 123-04,Gorro,Magentas,20,36,22,0,212,159,195
 123-05,Fular,Magentas,33,53,37,8,179,110,153
 123-06,Pócima,Magentas,40,63,46,19,160,83,128
 123-07,Conjuro,Magentas,52,72,61,35,123,53,86
 124-01,Pegaso,Magentas,11,14,10,0,228,217,227
-124-02,La,Vida en Rosa Magentas,15,20,14,0,218,201,217
+124-02,La Vida en Rosa,Magentas,15,20,14,0,218,201,217
 124-03,Premonición,Magentas,22,31,20,0,201,173,200
 124-04,Morado,Magentas,34,46,33,8,171,131,165
 124-05,Sara,Magentas,42,56,42,22,148,101,138
@@ -796,16 +796,16 @@
 125-07,Coqueta,Magentas,38,72,50,15,171,58,120
 126-01,Promesa,Magentas,4,9,5,0,248,231,242
 126-02,Suavidad,Magentas,9,18,9,0,237,207,230
-126-03,Simple,Rosa Magentas,15,29,15,0,227,179,214
+126-03,Simple Rosa,Magentas,15,29,15,0,227,179,214
 126-04,Paula,Magentas,18,35,20,0,220,162,203
 126-05,Rubor,Magentas,29,54,34,3,192,111,164
-126-06,Canción,Infantil Magentas,32,35,54,8,168,158,106
+126-06,Canción Infantil,Magentas,32,35,54,8,168,158,106
 126-07,Tinte,Magentas,45,73,55,26,146,54,104
 127-01,Juriquilla,Magentas,5,9,6,0,244,230,239
 127-02,Pañuelo,Magentas,9,18,10,0,237,208,229
 127-03,Luxemburgo,Magentas,15,28,16,0,223,181,213
-127-04,Sin,Fin Magentas,21,36,22,0,210,159,197
-127-05,Pueblo,Encantado Magentas,33,53,37,9,178,111,155
+127-04,Sin Fin,Magentas,21,36,22,0,210,159,197
+127-05,Pueblo Encantado,Magentas,33,53,37,9,178,111,155
 127-06,Conmovedor,Magentas,40,62,45,18,160,84,131
 127-07,Bruja,Magentas,52,72,60,35,123,54,89
 128-01,Endulzante,Magentas,11,14,10,0,228,217,227
@@ -820,13 +820,13 @@
 129-03,Granadina,Magentas,13,27,13,0,232,183,221
 129-04,Pétalo,Magentas,17,35,17,0,223,162,209
 129-05,Acaí,Magentas,27,54,31,0,200,109,172
-129-06,Beso,Tierno Magentas,32,61,37,7,187,90,155
+129-06,Beso Tierno,Magentas,32,61,37,7,187,90,155
 129-07,Bouquet,Magentas,40,70,47,19,162,62,126
-130-01,Rosa,Pastel Magentas,5,10,6,0,245,228,238
+130-01,Rosa Pastel,Magentas,5,10,6,0,245,228,238
 130-02,Rosicler,Magentas,9,18,9,0,238,209,231
 130-03,Biberón,Magentas,15,28,14,0,226,182,216
 130-04,Cuna,Magentas,19,35,20,0,215,162,203
-130-05,Abrazo,Tierno Magentas,31,53,33,5,187,112,165
+130-05,Abrazo Tierno,Magentas,31,53,33,5,187,112,165
 130-06,Anabela,Magentas,36,60,40,13,172,91,146
 130-07,Genciana,Magentas,47,71,53,28,140,59,109
 131-01,Píldora,Magentas,4,9,6,0,247,233,238
@@ -842,17 +842,17 @@
 132-04,Felpa,Magentas,34,44,32,7,170,134,168
 132-05,Aurelia,Magentas,43,55,42,21,144,102,139
 132-06,Moralina,Magentas,53,63,52,36,116,77,109
-132-07,Cebolla,Morada Magentas,61,71,63,49,89,54,76
-133-01,Vuelo,Elegante Violetas,4,8,4,0,247,233,244
-133-02,Momento,Místico Violetas,10,18,8,0,235,207,233
-133-03,Malva,Silvestre Violetas,16,26,12,0,222,186,222
+132-07,Cebolla Morada,Magentas,61,71,63,49,89,54,76
+133-01,Vuelo Elegante,Violetas,4,8,4,0,247,233,244
+133-02,Momento Místico,Violetas,10,18,8,0,235,207,233
+133-03,Malva Silvestre,Violetas,16,26,12,0,222,186,222
 133-04,Serenata,Violetas,23,35,19,0,202,162,205
 133-05,Honesto,Violetas,33,51,29,3,180,116,175
 133-06,Unicornio,Violetas,38,58,36,12,165,96,157
 133-07,Lujo,Violetas,47,68,47,28,137,67,125
 134-01,Dulzura,Violetas,6,9,5,0,242,232,241
 134-02,Encantador,Violetas,11,18,9,0,232,209,231
-134-03,Violeta,Africana Violetas,18,28,15,0,216,181,216
+134-03,Violeta Africana,Violetas,18,28,15,0,216,181,216
 134-04,Anastasia,Violetas,23,35,19,0,203,162,204
 134-05,Belladona,Violetas,38,53,33,8,163,112,165
 134-06,Orgullo,Violetas,42,60,40,19,151,90,144
@@ -876,25 +876,25 @@
 137-03,Estambre,Violetas,18,28,13,0,216,183,222
 137-04,Artístico,Violetas,23,35,17,0,204,162,210
 137-05,Nova,Violetas,35,52,29,3,172,115,175
-137-06,Orquídea,Exótica Violetas,41,60,36,12,157,93,158
+137-06,Orquídea Exótica,Violetas,41,60,36,12,157,93,158
 137-07,Impulso,Violetas,50,68,46,28,128,66,126
 138-01,Diana,Violetas,7,10,5,0,240,230,241
 138-02,Postal,Violetas,12,18,9,0,229,209,232
 138-03,Atenea,Violetas,19,28,14,0,212,180,217
 138-04,Alelí,Violetas,24,35,19,0,198,161,204
-138-05,Abu,Simbel Violetas,35,52,33,9,171,114,164
+138-05,Abu Simbel,Violetas,35,52,33,9,171,114,164
 138-06,Camelina,Violetas,45,61,41,20,144,88,142
 138-07,Argón,Violetas,55,69,52,36,111,62,109
 139-01,Shot,Violetas,7,9,6,0,239,231,239
 139-02,Bombita,Violetas,13,18,9,0,226,208,230
-139-03,Cuento,de Hada Violetas,21,29,15,0,207,179,214
+139-03,Cuento de Hada,Violetas,21,29,15,0,207,179,214
 139-04,Aviñón,Violetas,27,36,21,0,190,159,199
 139-05,Pirineos,Violetas,41,53,35,12,152,110,158
 139-06,Renata,Violetas,48,62,43,23,131,85,135
 139-07,Moqueta,Violetas,61,72,59,46,90,52,88
 140-01,Matiné,Violetas,12,14,10,0,225,217,228
 140-02,Salsa,Violetas,17,20,13,0,213,201,219
-140-03,Medias,de Seda Violetas,25,31,19,0,193,173,203
+140-03,Medias de Seda,Violetas,25,31,19,0,193,173,203
 140-04,Ensenada,Violetas,38,45,31,6,158,132,169
 140-05,Tarahumara,Violetas,46,56,40,18,135,101,145
 140-06,Chateau,Violetas,56,64,50,33,105,76,114
@@ -909,8 +909,8 @@
 142-01,Lazo,Violetas,7,10,6,0,239,229,239
 142-02,Pastelería,Violetas,13,18,9,0,225,208,232
 142-03,Confitado,Violetas,20,28,14,0,208,180,217
-142-04,Dama,de Honor Violetas,26,35,19,0,192,161,204
-142-05,Lugar,Místico Violetas,41,53,33,9,154,110,165
+142-04,Dama de Honor,Violetas,26,35,19,0,192,161,204
+142-05,Lugar Místico,Violetas,41,53,33,9,154,110,165
 142-06,Andrómeda,Violetas,48,61,41,20,134,86,142
 142-07,Muasir,Violetas,58,69,53,37,101,61,108
 143-01,Granizo,Violetas,7,9,6,0,237,230,239
@@ -925,7 +925,7 @@
 144-03,Sombrerete,Violetas,27,31,19,0,187,172,205
 144-04,Gaudí,Violetas,40,46,30,4,153,130,173
 144-05,Aniversario,Violetas,49,56,38,16,126,101,149
-144-06,Cuenta,Cuentos Violetas,59,65,50,33,95,73,116
+144-06,Cuenta Cuentos,Violetas,59,65,50,33,95,73,116
 144-07,Nocturno,Violetas,70,74,67,57,60,44,64
 145-01,Peonia,Violetas,6,8,5,0,240,233,242
 145-02,Fragancia,Violetas,13,17,8,0,223,210,235
@@ -940,7 +940,7 @@
 146-04,Contemporáneo,Violetas,29,36,19,0,183,160,204
 146-05,Indonesia,Violetas,44,53,33,8,144,111,165
 146-06,Gusgi,Violetas,51,61,41,20,123,87,142
-146-07,Violeta,Imperial Violetas,61,70,53,38,90,60,105
+146-07,Violeta Imperial,Violetas,61,70,53,38,90,60,105
 147-01,Querubín,Violetas,8,9,6,0,235,230,239
 147-02,Charleston,Violetas,16,19,10,0,216,206,229
 147-03,Helel,Violetas,24,29,15,0,195,178,215
@@ -957,7 +957,7 @@
 148-07,Torre,Violetas,70,73,66,55,59,48,68
 149-01,Flautín,Violetas,7,9,5,0,237,231,241
 149-02,Neblina,Violetas,15,18,8,0,218,209,235
-149-03,Luz,Angelical Violetas,23,27,12,0,198,185,224
+149-03,Luz Angelical,Violetas,23,27,12,0,198,185,224
 149-04,Calzada,Violetas,31,35,17,0,177,162,210
 149-05,Anhelo,Violetas,49,56,32,8,128,104,167
 149-06,Diplomático,Violetas,52,60,36,12,121,92,157
@@ -967,14 +967,14 @@
 150-03,Umei,Violetas,25,29,14,0,194,179,218
 150-04,Géminis,Violetas,31,36,18,0,178,161,206
 150-05,Explosivo,Violetas,46,53,32,7,135,111,167
-150-06,Atardecer,Invernal Violetas,53,61,40,18,117,88,145
+150-06,Atardecer Invernal,Violetas,53,61,40,18,117,88,145
 150-07,Meditación,Violetas,63,69,52,36,85,61,109
-151-01,Haz,de Luz Violetas,9,9,6,0,233,230,240
+151-01,Haz de Luz,Violetas,9,9,6,0,233,230,240
 151-02,Glaseado,Violetas,17,19,9,0,212,206,230
 151-03,Sarcasmo,Violetas,27,29,15,0,186,177,216
 151-04,Popelina,Violetas,34,36,20,0,168,158,202
-151-05,Osa,Mayor Violetas,50,54,34,10,123,108,162
-151-06,Papel,China Violetas,57,63,43,23,103,82,137
+151-05,Osa Mayor,Violetas,50,54,34,10,123,108,162
+151-06,Papel China,Violetas,57,63,43,23,103,82,137
 151-07,Tafeta,Violetas,68,72,59,46,67,52,87
 152-01,Tate,Violetas,15,15,9,0,216,216,230
 152-02,Alicante,Violetas,20,20,13,0,203,202,221
@@ -996,7 +996,7 @@
 154-04,Myster,Violetas,34,35,18,0,165,162,206
 154-05,Quartz,Violetas,50,52,32,7,121,113,168
 154-06,Litio,Violetas,57,60,40,18,102,90,146
-154-07,Carpa,de Circo Violetas,66,69,52,36,74,63,110
+154-07,Carpa de Circo,Violetas,66,69,52,36,74,63,110
 155-01,Lobelia,Violetas,9,9,5,0,231,231,242
 155-02,Chifón,Violetas,19,19,9,0,205,206,231
 155-03,Verbena,Violetas,29,29,14,0,177,179,217
@@ -1013,7 +1013,7 @@
 156-07,Guía,Violetas,71,72,65,54,52,49,70
 157-01,Ilusión,Violetas,10,9,5,0,227,231,242
 157-02,Matatena,Violetas,19,18,7,0,205,208,236
-157-03,Violeta,Encantada Violetas,29,27,12,0,178,184,224
+157-03,Violeta Encantada,Violetas,29,27,12,0,178,184,224
 157-04,Libélula,Violetas,36,34,16,0,157,164,212
 157-05,Merlot,Violetas,52,51,28,2,115,119,178
 157-06,Hechizo,Violetas,58,58,35,12,97,97,159
@@ -1029,7 +1029,7 @@
 159-02,Navila,Violetas,21,17,8,0,197,211,233
 159-03,Sofía,Violetas,33,29,14,0,166,179,218
 159-04,Golosina,Violetas,40,36,19,0,144,159,204
-159-05,Ana,Lilia Violetas,57,53,33,9,97,110,164
+159-05,Ana Lilia,Violetas,57,53,33,9,97,110,164
 159-06,Prunella,Violetas,63,62,42,22,79,84,138
 159-07,Bruselas,Violetas,71,71,58,45,56,55,91
 160-01,Mapache,Violetas,17,13,9,0,206,220,232
@@ -1041,8 +1041,8 @@
 160-07,Intocable,Violetas,76,76,68,58,38,39,62
 161-01,Acre,Violetas,11,9,5,0,225,231,242
 161-02,Eterno,Violetas,21,18,7,0,197,209,237
-161-03,Aroma,Floral Violetas,32,27,11,0,168,185,226
-161-04,Sombra,Mágica Violetas,40,34,15,0,144,165,215
+161-03,Aroma Floral,Violetas,32,27,11,0,168,185,226
+161-04,Sombra Mágica,Violetas,40,34,15,0,144,165,215
 161-05,Afecto,Violetas,55,50,27,0,101,119,182
 161-06,Centella,Violetas,62,58,34,10,81,96,162
 161-07,Zodiaco,Violetas,68,66,44,25,64,72,132
@@ -1055,7 +1055,7 @@
 162-07,Magneto,Violetas,71,69,51,35,56,62,111
 163-01,Agapanto,Violetas,13,10,5,0,217,228,241
 163-02,Delantal,Violetas,24,18,8,0,188,207,233
-163-03,Aguileña,Azul Violetas,36,29,13,0,152,179,220
+163-03,Aguileña Azul,Violetas,36,29,13,0,152,179,220
 163-04,Magdalena,Violetas,44,36,18,0,128,160,207
 163-05,Melos,Violetas,61,53,32,7,78,110,168
 163-06,Limantur,Violetas,67,61,41,20,63,86,143
@@ -1083,7 +1083,7 @@
 166-07,Royal,Azules,72,68,50,33,49,66,115
 167-01,Hielo,Azules,14,10,5,0,213,230,242
 167-02,Vitral,Azules,26,18,8,0,178,208,235
-167-03,Punta,del Este Azules,40,28,12,0,137,182,223
+167-03,Punta del Este,Azules,40,28,12,0,137,182,223
 167-04,Malecón,Azules,48,35,17,0,111,162,210
 167-05,Tromba,Azules,66,52,31,5,54,114,172
 167-06,Estirpe,Azules,71,60,39,17,43,91,147
@@ -1123,7 +1123,7 @@
 172-05,Oleaje,Azules,69,51,35,11,26,116,160
 172-06,Rey,Azules,74,60,46,28,15,88,126
 172-07,Batalla,Azules,76,74,65,54,36,45,72
-173-01,Media,Luna Azules,12,8,5,0,218,234,243
+173-01,Media Luna,Azules,12,8,5,0,218,234,243
 173-02,Sonar,Azules,14,38,37,0,236,155,158
 173-03,Principito,Azules,37,25,10,0,145,189,229
 173-04,Denim,Azules,46,32,14,0,118,171,219
@@ -1139,11 +1139,11 @@
 174-07,Ballena,Azules,75,65,48,30,31,73,121
 175-01,Ushuaia,Azules,14,9,5,0,213,232,242
 175-02,Acuarela,Azules,27,17,8,0,176,210,234
-175-03,Puerto,Peñasco Azules,40,27,13,0,135,184,222
+175-03,Puerto Peñasco,Azules,40,27,13,0,135,184,222
 175-04,Chubasco,Azules,48,34,18,0,110,165,208
 175-05,Trueno,Azules,65,50,31,6,52,119,170
 175-06,Capitán,Azules,67,56,38,16,52,103,149
-175-07,Alfa,Centauri Azules,73,69,56,41,42,62,98
+175-07,Alfa Centauri,Azules,73,69,56,41,42,62,98
 176-01,Obelisco,Azules,21,14,10,0,192,218,229
 176-02,Ciencia,Azules,28,18,12,0,171,206,223
 176-03,Surf,Azules,43,28,17,0,121,180,210
@@ -1153,7 +1153,7 @@
 176-07,Emanuel,Azules,74,71,64,52,42,52,74
 177-01,Reflejo,Azules,16,9,4,0,207,233,244
 177-02,Espejo,Azules,29,16,6,0,166,214,240
-177-03,Ojo,Azul Azules,41,23,9,0,126,195,233
+177-03,Ojo Azul,Azules,41,23,9,0,126,195,233
 177-04,Costa,Azules,51,30,12,0,90,176,223
 177-05,Oleada,Azules,73,48,26,0,0,127,186
 177-06,Corbata,Azules,78,55,33,8,0,106,166
@@ -1161,7 +1161,7 @@
 178-01,Nitrógeno,Azules,16,8,4,0,207,234,243
 178-02,Atmósfera,Azules,28,15,6,0,168,215,238
 178-03,Cúmulus,Azules,43,25,11,0,120,190,226
-178-04,Azul,Infante Azules,51,31,15,0,89,174,216
+178-04,Azul Infante,Azules,51,31,15,0,89,174,216
 178-05,Blau,Azules,70,46,26,0,0,132,183
 178-06,Medusa,Azules,74,52,33,9,0,114,165
 178-07,Pavorreal,Azules,77,63,46,28,0,81,126
@@ -1171,7 +1171,7 @@
 179-04,Groenlandia,Azules,52,32,17,0,88,170,210
 179-05,Vishnú,Azules,69,47,30,4,0,128,174
 179-06,Olímpico,Azules,74,54,38,15,0,107,151
-179-07,Bóveda,Celeste Azules,76,66,54,39,23,69,103
+179-07,Bóveda Celeste,Azules,76,66,54,39,23,69,103
 180-01,Nevada,Azules,20,12,9,0,196,222,231
 180-02,Cordel,Azules,28,18,12,0,171,208,222
 180-03,Cumbre,Azules,43,27,17,0,122,183,208
@@ -1233,7 +1233,7 @@
 188-03,Camocán,Azules,41,25,19,0,125,187,203
 188-04,Frente,Azules,57,37,31,6,70,152,170
 188-05,Cántico,Azules,51,67,65,35,122,69,74
-188-06,Fruto,Verde Azules,73,56,50,33,1,97,113
+188-06,Fruto Verde,Azules,73,56,50,33,1,97,113
 188-07,Nebraska,Azules,75,68,63,52,31,62,75
 189-01,Griego,Azules,14,6,5,0,211,238,241
 189-02,Glaciar,Azules,27,13,8,0,169,220,234
@@ -1252,7 +1252,7 @@
 191-01,Grulla,Azules,15,7,6,0,207,236,239
 191-02,Blur,Azules,27,14,9,0,168,219,229
 191-03,Riachuelo,Azules,41,22,16,0,122,196,213
-191-04,Río,de la Plata Azules,49,28,21,0,90,179,199
+191-04,Río de la Plata,Azules,49,28,21,0,90,179,199
 191-05,Grijalva,Azules,67,43,35,12,0,138,158
 191-06,Gruta,Azules,72,50,43,23,0,117,136
 191-07,Poseidón,Azules,75,62,57,43,4,80,94
@@ -1275,37 +1275,37 @@
 194-03,Acueducto,Turquesas,41,20,16,0,119,201,211
 194-04,Ágata,Turquesas,49,25,21,0,85,186,198
 194-05,Mineral,Turquesas,67,39,35,11,0,146,158
-194-06,Aventura,Náutica Turquesas,73,46,42,22,0,127,137
+194-06,Aventura Náutica,Turquesas,73,46,42,22,0,127,137
 194-07,Báltico,Turquesas,76,58,55,40,0,90,99
 195-01,Aguacero,Turquesas,14,6,6,0,209,238,239
-195-02,Polo,Norte Turquesas,28,13,10,0,163,221,227
+195-02,Polo Norte,Turquesas,28,13,10,0,163,221,227
 195-03,Isirio,Turquesas,41,20,16,0,115,201,210
 195-04,Dubái,Turquesas,50,26,22,0,82,184,195
 195-05,Centurión,Turquesas,69,41,37,14,0,142,152
 195-06,Pléyades,Turquesas,74,48,45,26,0,120,128
-195-07,Monte,Negro Turquesas,77,63,61,48,0,75,82
+195-07,Monte Negro,Turquesas,77,63,61,48,0,75,82
 196-01,Matinal,Turquesas,20,11,11,0,191,224,226
 196-02,Camalara,Turquesas,26,15,14,0,172,215,218
 196-03,Baldosa,Turquesas,41,23,20,0,120,192,199
 196-04,Sustentable,Turquesas,57,35,32,8,58,159,165
 196-05,Conífera,Turquesas,67,44,42,21,0,132,138
-196-06,Perla,Negra Turquesas,74,54,52,36,0,102,107
+196-06,Perla Negra,Turquesas,74,54,52,36,0,102,107
 196-07,Carbón,Turquesas,75,68,66,55,31,61,67
 197-01,Olimpo,Turquesas,15,6,6,0,208,239,238
 197-02,Infinito,Turquesas,27,11,10,0,163,225,227
-197-03,Luna,Arcoíris Turquesas,40,17,15,0,118,208,213
+197-03,Luna Arcoíris,Turquesas,40,17,15,0,118,208,213
 197-04,Ceremonia,Turquesas,49,23,21,0,78,192,198
 197-05,Claus,Turquesas,68,36,35,11,0,155,159
 197-06,Volador,Turquesas,77,43,42,22,0,134,136
 197-07,Profundo,Turquesas,81,55,54,38,0,99,103
-198-01,Feroz,Profundo Turquesas,16,6,6,0,202,237,237
+198-01,Feroz Profundo,Turquesas,16,6,6,0,202,237,237
 198-02,Vaho,Turquesas,27,11,10,0,163,225,227
 198-03,Aéreo,Turquesas,41,18,17,0,112,205,210
 198-04,Enagua,Turquesas,50,24,22,0,72,189,194
 198-05,Emir,Turquesas,69,37,36,13,0,151,154
 198-06,Peltre,Turquesas,77,45,44,25,0,129,130
-198-07,Azul,Francés Turquesas,79,60,58,45,0,86,89
-199-01,Loza,Inglesa Turquesas,15,6,6,0,205,239,237
+198-07,Azul Francés,Turquesas,79,60,58,45,0,86,89
+199-01,Loza Inglesa,Turquesas,15,6,6,0,205,239,237
 199-02,Joya,Turquesas,28,11,11,0,160,224,224
 199-03,Max,Turquesas,41,18,17,0,111,205,207
 199-04,Inolvidable,Turquesas,50,23,23,0,75,190,192
@@ -1332,10 +1332,10 @@
 202-04,Afluente,Turquesas,49,20,23,0,72,199,191
 202-05,Quantum,Turquesas,68,34,39,10,0,160,146
 202-06,Onda,Turquesas,76,41,47,20,0,140,125
-202-07,Tesoro,del Oriente Turquesas,79,58,61,44,0,90,82
+202-07,Tesoro del Oriente,Turquesas,79,58,61,44,0,90,82
 203-01,Sorbo,Turquesas,16,5,7,0,203,241,235
-203-02,Beso,Frío Turquesas,27,9,12,0,162,229,222
-203-03,Bel,Air Turquesas,40,16,19,0,113,211,203
+203-02,Beso Frío,Turquesas,27,9,12,0,162,229,222
+203-03,Bel Air,Turquesas,40,16,19,0,113,211,203
 203-04,Calandria,Turquesas,49,21,25,0,73,196,186
 203-05,Pacífico,Turquesas,68,35,41,11,0,158,141
 203-06,Marometa,Turquesas,76,43,49,22,0,135,117
@@ -1356,12 +1356,12 @@
 205-07,Logro,Turquesas,80,51,61,34,0,111,83
 206-01,Abismo,Turquesas,13,3,6,0,212,246,238
 206-02,Cúspide,Turquesas,25,7,12,0,168,235,222
-206-03,Fortuna,Mágica Turquesas,39,14,21,0,116,216,198
-206-04,Canto,de Sirena Turquesas,67,47,40,19,28,124,143
-206-05,Estrella,Fugaz Turquesas,66,32,43,7,0,166,136
+206-03,Fortuna Mágica,Turquesas,39,14,21,0,116,216,198
+206-04,Canto de Sirena,Turquesas,67,47,40,19,28,124,143
+206-05,Estrella Fugaz,Turquesas,66,32,43,7,0,166,136
 206-06,Acrobacia,Turquesas,74,40,51,18,0,144,112
 206-07,Heroico,Turquesas,77,56,63,41,0,97,77
-207-01,Viento,del Este Turquesas,15,4,8,0,203,244,235
+207-01,Viento del Este,Turquesas,15,4,8,0,203,244,235
 207-02,Estola,Turquesas,25,7,13,0,167,235,221
 207-03,Roseicollis,Turquesas,39,14,22,0,115,216,195
 207-04,Aqua,Turquesas,47,19,28,0,78,202,179
@@ -1378,21 +1378,21 @@
 209-01,Aura,Verdes,13,3,8,0,213,246,233
 209-02,Renovación,Verdes,24,8,15,0,173,234,214
 209-03,Valparaíso,Verdes,34,12,22,0,138,223,195
-209-04,Río,Verde Verdes,42,17,29,0,104,209,176
+209-04,Río Verde,Verdes,42,17,29,0,104,209,176
 209-05,Uruapan,Verdes,59,29,47,3,0,175,127
 209-06,Arbolada,Verdes,68,37,55,14,0,152,102
-209-07,Madre,Selva Verdes,74,50,65,32,0,115,72
+209-07,Madre Selva,Verdes,74,50,65,32,0,115,72
 210-01,Adalid,Verdes,12,3,8,0,215,246,235
-210-02,Fuente,Clara Verdes,24,8,15,0,173,234,215
-210-03,Princesa,Maya Verdes,36,12,24,0,128,221,191
+210-02,Fuente Clara,Verdes,24,8,15,0,173,234,215
+210-03,Princesa Maya,Verdes,36,12,24,0,128,221,191
 210-04,Iceberg,Verdes,44,18,31,0,95,207,172
-210-05,Hechizo,de Hada Verdes,61,31,48,6,0,168,123
-210-06,Lágrima,de Cocodrilo Verdes,67,38,54,16,0,149,104
+210-05,Hechizo de Hada,Verdes,61,31,48,6,0,168,123
+210-06,Lágrima de Cocodrilo,Verdes,67,38,54,16,0,149,104
 210-07,Babel,Verdes,77,56,69,42,0,95,59
 211-01,Cristalizado,Verdes,13,4,8,0,211,245,233
 211-02,Origami,Verdes,25,9,15,0,171,231,214
 211-03,Tuyo,Verdes,37,15,25,0,128,214,187
-211-04,Bora,Bora Verdes,44,20,31,0,99,200,171
+211-04,Bora Bora,Verdes,44,20,31,0,99,200,171
 211-05,René,Verdes,62,33,47,9,0,162,124
 211-06,Agave,Verdes,69,42,56,22,0,136,97
 211-07,Cuaderno,Verdes,73,59,68,46,7,88,61
@@ -1401,9 +1401,9 @@
 212-03,Maratí,Verdes,36,20,25,0,141,198,186
 212-04,Kawa,Verdes,51,33,40,9,90,163,143
 212-05,Acampar,Verdes,59,41,49,20,61,140,119
-212-06,Vida,Salvaje Verdes,67,52,59,36,40,108,89
+212-06,Vida Salvaje,Verdes,67,52,59,36,40,108,89
 212-07,Epinard,Verdes,72,63,69,52,33,75,58
-213-01,Pin,Ball Verdes,9,2,9,0,225,249,231
+213-01,Pin Ball,Verdes,9,2,9,0,225,249,231
 213-02,Jilote,Verdes,17,5,15,0,196,241,216
 213-03,Fresco,Verdes,28,10,25,0,159,227,187
 213-04,Mitla,Verdes,35,14,31,0,133,216,171
@@ -1414,7 +1414,7 @@
 214-02,Cadete,Verdes,18,6,15,0,193,239,216
 214-03,Ingenio,Verdes,30,12,27,0,152,221,182
 214-04,Lírico,Verdes,37,16,33,0,128,211,165
-214-05,Centello,Radial Verdes,53,28,47,2,67,176,125
+214-05,Centello Radial,Verdes,53,28,47,2,67,176,125
 214-06,Pangea,Verdes,59,35,56,11,36,158,99
 214-07,Festejo,Verdes,69,48,67,30,0,119,67
 215-01,Ozono,Verdes,10,4,9,0,221,245,231
@@ -1468,7 +1468,7 @@
 221-07,Suertudo,Verdes,54,32,72,8,69,165,48
 222-01,Campirano,Verdes,6,3,10,0,236,248,228
 222-02,Fauna,Verdes,12,5,18,0,218,241,207
-222-03,Ceibo,Nuevo Verdes,19,9,31,0,195,230,172
+222-03,Ceibo Nuevo,Verdes,19,9,31,0,195,230,172
 222-04,Salvia,Verdes,24,12,37,0,178,222,154
 222-05,Anethum,Verdes,38,23,53,0,134,193,109
 222-06,Abedul,Verdes,45,28,63,2,112,176,80
@@ -1478,17 +1478,17 @@
 223-03,Croacia,Verdes,22,12,31,0,186,222,171
 223-04,Habichuela,Verdes,28,17,37,0,166,209,155
 223-05,Berilio,Verdes,43,30,57,4,122,173,97
-223-06,Huele,de Noche Verdes,49,35,61,11,102,158,85
+223-06,Huele de Noche,Verdes,49,35,61,11,102,158,85
 223-07,Selección,Verdes,64,50,69,32,52,115,59
 224-01,Salamba,Verdes,14,10,14,0,215,228,216
 224-02,Sándalo,Verdes,19,14,19,0,197,218,202
 224-03,Chinita,Verdes,29,20,29,0,168,200,175
-224-04,San,Juan Verdes,41,32,45,7,130,167,130
+224-04,San Juan,verdes,41,32,45,7,130,167,130
 224-05,Midas,Verdes,49,39,53,17,106,146,106
 224-06,Vert,Verdes,56,47,60,28,88,124,86
 224-07,Ensalada,Verdes,60,52,66,36,75,108,68
 225-01,Cascarón,Verdes,4,2,10,0,244,250,228
-225-02,Melón,Chino Verdes,6,3,18,0,234,248,208
+225-02,Melón Chino,verdes,6,3,18,0,234,248,208
 225-03,Silvestre,Verdes,10,4,27,0,224,243,184
 225-04,Spinning,Verdes,14,7,35,0,212,237,161
 225-05,Llanura,Verdes,24,14,55,0,179,218,104
@@ -1500,12 +1500,12 @@
 226-04,Adonis,Verdes,18,10,38,0,200,227,154
 226-05,Borla,Verdes,29,19,52,0,167,203,111
 226-06,Cítrico,Verdes,35,24,62,0,149,189,82
-226-07,Ramo,de Primavera Verdes,46,34,71,9,111,162,52
+226-07,Ramo de Primavera,verdes,46,34,71,9,111,162,52
 227-01,Berro,Verdes,5,3,11,0,239,248,226
 227-02,Brote,Verdes,10,6,19,0,224,239,205
 227-03,Barbados,Verdes,16,10,31,0,206,227,171
 227-04,Arábigo,Verdes,21,14,37,0,191,216,154
-227-05,Manzana,Verde Verdes,34,26,56,0,154,184,101
+227-05,Manzana Verde,verdes,34,26,56,0,154,184,101
 227-06,Pimiento,Verdes,40,31,61,5,135,169,83
 227-07,Enredadera,Verdes,50,41,69,21,104,139,60
 228-01,Uyuni,Verdes,12,9,15,0,221,229,216
@@ -1513,7 +1513,7 @@
 228-03,Tilo,Verdes,25,20,31,0,182,201,171
 228-04,Longicornio,Verdes,36,31,46,5,149,170,128
 228-05,Escarola,Verdes,44,38,55,16,126,149,102
-228-06,Hoja,Seca Verdes,51,45,61,26,107,128,83
+228-06,Hoja Seca,Verdes,51,45,61,26,107,128,83
 228-07,Serpiente,Verdes,55,49,67,31,94,117,66
 229-01,Espuma,Citricos,2,1,10,0,248,251,230
 229-02,Añoranza,Citricos,33,40,57,9,169,144,99
@@ -1533,7 +1533,7 @@
 231-02,Esponja,Citricos,8,6,19,0,231,239,206
 231-03,Guisante,Citricos,13,10,31,0,217,228,172
 231-04,Mikado,Citricos,18,14,38,0,204,217,153
-231-05,Eco,de Musa Citricos,29,25,58,0,172,186,95
+231-05,Eco de Musa,citricos,29,25,58,0,172,186,95
 231-06,Coleos,Citricos,34,29,61,3,156,174,85
 231-07,Arveja,Citricos,43,38,69,16,129,149,60
 232-01,Idílico,Citricos,10,9,14,0,227,231,218
@@ -1551,37 +1551,37 @@
 233-06,Comarca,Citricos,19,14,68,0,199,217,62
 233-07,Prado,Citricos,28,20,80,0,170,201,0
 234-01,Estridente,Citricos,2,2,9,0,249,250,231
-234-02,Arroz,con Leche Citricos,4,3,16,0,243,246,212
+234-02,Arroz con Leche,citricos,4,3,16,0,243,246,212
 234-03,Bálsamo,Citricos,8,6,30,0,231,238,174
-234-04,Tutti,Frutti Citricos,11,8,37,0,223,232,156
+234-04,Tutti Frutti,citricos,11,8,37,0,223,232,156
 234-05,Manuel,Citricos,19,16,52,0,199,212,112
 234-06,Estribillo,Citricos,24,20,62,0,186,200,82
-234-07,Son,Cubano Citricos,33,28,72,1,157,178,48
+234-07,Son Cubano,citricos,33,28,72,1,157,178,48
 235-01,Ajo,Citricos,3,2,8,0,247,250,233
 235-02,Pichi,Citricos,6,5,17,0,238,243,210
 235-03,Chilacayote,Citricos,10,8,30,0,226,232,175
-235-04,Hoja,de Nervo Citricos,14,11,35,0,216,224,161
+235-04,Hoja de Nervo,citricos,14,11,35,0,216,224,161
 235-05,Sauge,Citricos,23,22,54,0,188,195,108
-235-06,Lima,Agria Citricos,29,27,59,0,171,181,90
+235-06,Lima Agria,citricos,29,27,59,0,171,181,90
 235-07,Edamame,Citricos,41,37,69,14,139,152,61
 236-01,Banderín,Citricos,10,9,14,0,227,231,216
 236-02,Cidras,Citricos,14,13,20,0,214,220,201
 236-03,Anacapa,Citricos,21,19,30,0,196,204,172
 236-04,Frontera,Citricos,31,29,44,2,168,175,133
-236-05,Campana,de Irlanda Citricos,38,36,54,13,146,154,104
+236-05,Campana de Irlanda,citricos,38,36,54,13,146,154,104
 236-06,Charcoal,Citricos,45,43,60,23,126,134,88
 236-07,Madroño,Citricos,48,46,66,27,117,127,70
 237-01,Marfil,Citricos,2,1,9,0,248,251,230
 237-02,Pamplona,Citricos,3,2,17,0,248,249,209
-237-03,Vino,Blanco Citricos,5,4,28,0,241,245,182
+237-03,Vino Blanco,citricos,5,4,28,0,241,245,182
 237-04,Mordida,Citricos,8,6,37,0,233,239,157
 237-05,Bambú,Citricos,12,10,57,0,221,227,97
 237-06,Tallo,Citricos,16,13,67,0,209,219,64
 237-07,Brinco,Citricos,24,19,79,0,185,203,0
-238-01,Plaza,Verde Citricos,3,2,10,0,247,249,229
+238-01,Plaza Verde,citricos,3,2,10,0,247,249,229
 238-02,Lunario,Citricos,4,3,18,0,244,247,208
 238-03,Chai,Citricos,7,6,31,0,236,238,173
-238-04,Árbol,de Nogal Citricos,10,8,36,0,227,233,158
+238-04,Árbol de Nogal,citricos,10,8,36,0,227,233,158
 238-05,Olivo,Citricos,17,15,52,0,207,213,113
 238-06,Fresno,Citricos,21,19,62,0,196,203,82
 238-07,Legión,Citricos,30,27,72,0,168,180,48
@@ -1589,7 +1589,7 @@
 239-02,Pichancha,Citricos,5,4,19,0,240,243,205
 239-03,Pátina,Citricos,9,9,30,0,229,231,174
 239-04,Palta,Citricos,13,11,35,0,220,224,160
-239-05,Isla,de Pascua Citricos,21,21,53,0,196,196,109
+239-05,Isla de Pascua,citricos,21,21,53,0,196,196,109
 239-06,Cardizal,Citricos,27,26,60,0,179,182,88
 239-07,Estepa,Citricos,38,37,69,14,147,152,58
 240-01,Serenidad,Citricos,10,9,15,0,226,229,214
@@ -1600,7 +1600,7 @@
 240-06,Elizabeth,Citricos,44,43,60,23,129,134,87
 240-07,Piracanto,Citricos,47,45,66,26,123,128,70
 241-01,Requesón,Citricos,2,1,11,0,250,251,226
-241-02,Agua,Miel Citricos,2,2,19,0,248,249,204
+241-02,Agua Miel,citricos,2,2,19,0,248,249,204
 241-03,Renacimiento,Citricos,3,3,27,0,246,247,185
 241-04,Tavera,Citricos,5,5,35,0,240,242,162
 241-05,Creativo,Citricos,10,10,58,0,227,226,96
@@ -1619,7 +1619,7 @@
 243-04,Saltimbanqui,Citricos,12,11,35,0,222,224,160
 243-05,Nirvana,Citricos,20,21,54,0,202,198,108
 243-06,Hipnosis,Citricos,25,26,59,0,186,183,90
-243-07,Verde,Botella Citricos,36,36,69,12,155,155,61
+243-07,Verde Botella,Citricos,36,36,69,12,155,155,61
 244-01,Ronda,Citricos,10,10,16,0,226,228,212
 244-02,Guiñol,Citricos,13,13,20,0,217,220,200
 244-03,Velociraptor,Citricos,19,19,31,0,201,203,171
@@ -1640,20 +1640,20 @@
 246-04,Regaliz,Citricos,8,8,36,0,234,233,158
 246-05,Campiña,Citricos,14,15,52,0,218,214,112
 246-06,Fortuito,Citricos,17,18,63,0,209,204,80
-246-07,Fauno,del Bosque Citricos,24,26,74,0,191,184,42
-247-01,Ramo,de Azahar Citricos,2,2,9,0,249,249,231
+246-07,Fauno del Bosque,Citricos,24,26,74,0,191,184,42
+247-01,Ramo de Azahar,Citricos,2,2,9,0,249,249,231
 247-02,Risueño,Citricos,4,4,19,0,243,243,205
 247-03,Romero,Citricos,8,8,29,0,235,233,177
 247-04,Rivera,Citricos,11,11,35,0,225,224,161
 247-05,Malinalco,Citricos,19,21,55,0,205,197,104
-247-06,Hoja,de Parra Citricos,23,26,59,0,192,185,92
+247-06,Hoja de Parra,Citricos,23,26,59,0,192,185,92
 247-07,Ambrosía,Citricos,33,35,68,8,166,159,64
 248-01,Guayabera,Citricos,10,10,15,0,227,229,214
 248-02,Endibia,Citricos,13,12,20,0,219,221,202
-248-03,Suflé,de Apio Citricos,19,19,30,0,203,204,173
+248-03,Suflé de Apio,Citricos,19,19,30,0,203,204,173
 248-04,Pipián,Citricos,27,28,43,0,180,179,136
 248-05,Pois,Citricos,35,36,54,12,158,155,104
-248-06,Carey,Verde Citricos,42,42,60,21,139,136,88
+248-06,Carey Verde,Citricos,42,42,60,21,139,136,88
 248-07,Farsi,Citricos,43,44,66,23,134,131,70
 249-01,Guanábana,Citricos,2,2,10,0,250,251,228
 249-02,Lichi,Citricos,1,2,18,0,252,249,207
@@ -1663,9 +1663,9 @@
 249-06,Agrio,Citricos,8,12,68,0,237,222,62
 249-07,Atrevido,Citricos,11,17,82,0,229,209,0
 250-01,Candela,Citricos,27,16,13,0,172,211,220
-250-02,Diente,de León Citricos,2,3,17,0,250,247,210
+250-02,Diente de León,Citricos,2,3,17,0,250,247,210
 250-03,Juliana,Citricos,5,6,31,0,243,238,173
-250-04,Elogio,Real Citricos,7,8,38,0,238,232,154
+250-04,Elogio Real,Citricos,7,8,38,0,238,232,154
 250-05,Futón,Citricos,12,16,58,0,225,212,96
 250-06,Faraón,Citricos,15,19,64,0,219,204,76
 250-07,Dínamo,Citricos,22,26,75,0,199,184,38
@@ -1685,14 +1685,14 @@
 252-07,Ratatouille,Citricos,41,44,65,20,143,133,72
 253-01,Sentido,Neutros,19,27,12,0,213,184,223
 253-02,Pinot,Neutros,9,21,17,0,240,200,210
-253-03,Tea,Tree Neutros,28,33,29,1,183,166,176
+253-03,Tea Tree,Neutros,28,33,29,1,183,166,176
 253-04,Marabasco,Neutros,41,48,44,20,146,122,133
 253-05,Faena,Neutros,53,59,56,37,112,89,96
 253-06,Enebro,Neutros,59,64,62,46,92,73,80
 253-07,Retinto,Neutros,64,69,69,53,77,58,58
 254-01,Pulgar,Neutros,12,14,13,0,223,216,220
 254-02,Scrap,Neutros,18,22,19,0,207,196,202
-254-03,Espuma,de Uva Neutros,28,33,29,2,181,165,175
+254-03,Espuma de Uva,Neutros,28,33,29,2,181,165,175
 254-04,Chuong,Neutros,42,48,44,21,144,121,131
 254-05,Tempranillo,Neutros,52,58,55,36,114,91,101
 254-06,Bouvier,Neutros,60,66,64,47,89,69,74
@@ -1763,7 +1763,7 @@
 264-01,Andi,Neutros,12,16,17,0,224,212,210
 264-02,Constantinopla,Neutros,19,24,25,0,208,190,188
 264-03,Dedal,Neutros,29,36,37,3,182,155,153
-264-04,Chapa,de Cobre Neutros,43,52,54,22,144,110,106
+264-04,Chapa de Cobre,Neutros,43,52,54,22,144,110,106
 264-05,Brandy,Neutros,51,60,62,35,119,86,82
 264-06,Cecina,Neutros,59,67,69,46,93,67,61
 264-07,Salinero,Neutros,61,70,73,49,87,56,47
@@ -1776,7 +1776,7 @@
 265-07,Magma,Neutros,58,67,70,44,98,67,58
 266-01,Kunzita,Neutros,12,16,17,0,224,212,209
 266-02,Dátil,Neutros,19,25,26,0,208,188,185
-266-03,Oro,Rosa Neutros,29,37,38,3,181,154,151
+266-03,Oro Rosa,Neutros,29,37,38,3,181,154,151
 266-04,Ahuehuete,Neutros,43,53,56,23,143,108,101
 266-05,Melcocha,Neutros,52,61,63,35,117,84,78
 266-06,Albóndiga,Neutros,57,66,69,43,100,68,59
@@ -1796,11 +1796,11 @@
 268-06,Corteza,Neutros,56,62,65,41,102,81,71
 268-07,Arnés,Neutros,58,65,69,45,96,72,61
 269-01,Escocia,Neutros,12,14,16,0,224,217,211
-269-02,Creme,Brulee Neutros,17,20,23,0,212,200,193
+269-02,Creme Brulee,Neutros,17,20,23,0,212,200,193
 269-03,Teriyaki,Neutros,26,31,35,0,186,169,160
 269-04,Yuca,Neutros,39,45,50,17,153,130,116
 269-05,Cerbatana,Neutros,48,54,59,30,126,104,91
-269-06,Libro,Antiguo Neutros,55,61,65,40,105,83,71
+269-06,Libro Antiguo,Neutros,55,61,65,40,105,83,71
 269-07,Centeno,Neutros,57,64,69,43,99,74,59
 270-01,Champiñón,Neutros,11,12,15,0,227,221,215
 270-02,Praga,Neutros,16,19,22,0,213,203,194
@@ -1810,9 +1810,9 @@
 270-06,Lodo,Neutros,54,59,65,38,109,88,73
 270-07,Coati,Neutros,56,63,69,41,103,77,61
 271-01,Montreal,Neutros,10,11,14,0,229,224,217
-271-02,Lana,Cruda Neutros,16,19,22,0,213,204,195
+271-02,Lana Cruda,Neutros,16,19,22,0,213,204,195
 271-03,Caqui,Neutros,25,30,34,0,188,174,161
-271-04,Café,con Leche Neutros,36,42,48,13,159,139,122
+271-04,Café con Leche,Neutros,36,42,48,13,159,139,122
 271-05,Bayo,Neutros,47,52,58,29,128,108,92
 271-06,Ardilla,Neutros,54,59,64,39,107,89,74
 271-07,Brida,Neutros,56,62,68,41,103,79,62
@@ -1876,7 +1876,7 @@
 280-02,Lidia,Neutros,15,15,19,0,213,214,203
 280-03,Mollis,Neutros,23,23,29,0,192,191,176
 280-04,Idala,Neutros,32,33,41,7,166,163,142
-280-05,Semilla,de Cáñamo Neutros,45,46,53,25,131,127,106
+280-05,Semilla de Cáñamo,Neutros,45,46,53,25,131,127,106
 280-06,Absenta,Neutros,51,52,59,35,110,108,89
 280-07,Taika,Neutros,53,54,64,37,108,101,76
 281-01,Maniquí,Neutros,11,10,14,0,225,226,218
@@ -1938,7 +1938,7 @@
 289-01,Columbus,Neutros,13,11,12,0,217,226,221
 289-02,Jofaina,Neutros,21,17,20,0,195,207,201
 289-03,Ladera,Neutros,31,27,30,0,165,181,172
-289-04,Arcilla,Verde Neutros,45,41,46,20,124,141,128
+289-04,Arcilla Verde,Neutros,45,41,46,20,124,141,128
 289-05,Rampete,Neutros,55,50,55,33,97,113,101
 289-06,Natura,Neutros,62,58,62,45,77,90,79
 289-07,Pinnada,Neutros,65,63,66,51,67,76,65
@@ -1978,8 +1978,8 @@
 294-06,Maranta,Neutros,67,61,62,49,57,81,78
 294-07,Captoe,Neutros,71,69,69,59,48,58,56
 295-01,Despejado,Neutros,15,11,12,0,211,225,223
-295-02,Cristal,de Roca Neutros,23,17,18,0,185,207,206
-295-03,Buena,Vida Neutros,35,27,28,1,149,179,177
+295-02,Cristal de Roca,Neutros,23,17,18,0,185,207,206
+295-03,Buena Vida,Neutros,35,27,28,1,149,179,177
 295-04,Siembra,Neutros,50,42,43,21,105,138,134
 295-05,Jungla,Neutros,60,52,53,36,77,108,106
 295-06,Garufa,Neutros,67,61,62,49,57,81,79
@@ -1991,7 +1991,7 @@
 296-05,Herencia,Neutros,60,52,53,35,76,109,106
 296-06,Compadre,Neutros,67,61,62,48,57,82,79
 296-07,Gabán,Neutros,71,68,69,59,46,60,57
-297-01,Cielito,Lindo Neutros,17,13,11,0,204,221,224
+297-01,Cielito Lindo,Neutros,17,13,11,0,204,221,224
 297-02,Madrid,Neutros,25,19,17,0,179,204,210
 297-03,Termo,Neutros,38,29,26,0,141,176,184
 297-04,Gabardina,Neutros,53,43,40,18,96,136,143
@@ -2019,7 +2019,7 @@
 300-05,Fausto,Neutros,63,55,50,32,69,100,116
 300-06,Vernáculo,Neutros,70,64,60,47,51,73,86
 300-07,Taviata,Neutros,73,71,69,60,45,51,58
-301-01,Azul,Hielo Neutros,16,12,10,0,207,222,228
+301-01,Azul Hielo,Neutros,16,12,10,0,207,222,228
 301-02,Magallanes,Neutros,26,20,16,0,178,201,212
 301-03,Tempestad,Neutros,39,31,24,0,140,171,188
 301-04,Hule,Neutros,54,45,39,17,96,130,147
@@ -2030,7 +2030,7 @@
 302-02,Pirinola,Neutros,26,20,16,0,179,200,212
 302-03,Horóscopo,Neutros,39,31,24,0,140,170,188
 302-04,Huracán,Neutros,54,45,38,16,96,129,148
-302-05,Lobo,Estepario Neutros,63,56,50,32,69,98,116
+302-05,Lobo Estepario,Neutros,63,56,50,32,69,98,116
 302-06,Catamarán,Neutros,69,64,59,46,52,72,86
 302-07,Adburgo,Neutros,73,71,69,60,44,50,58
 303-01,Zirconia,Neutros,17,14,11,0,207,217,225
@@ -2038,7 +2038,7 @@
 303-03,Galubia,Neutros,37,31,25,0,147,170,187
 303-04,Arcano,Neutros,52,46,38,16,105,128,148
 303-05,Heráldico,Neutros,61,56,49,32,77,98,117
-303-06,Bahía,de Tokio Neutros,68,64,59,45,59,73,89
+303-06,Bahía de Tokio,Neutros,68,64,59,45,59,73,89
 303-07,Alfil,Neutros,72,71,69,59,48,51,59
 304-01,Alpes,Neutros,15,13,10,0,212,221,227
 304-02,Pecera,Neutros,25,21,16,0,185,199,211
@@ -2046,24 +2046,24 @@
 304-04,Monasterio,Neutros,52,46,39,17,106,127,147
 304-05,Luneta,Neutros,62,58,51,35,76,93,111
 304-06,Fígaro,Neutros,68,65,59,46,58,71,86
-304-07,Tinta,China Neutros,72,72,69,60,46,49,57
+304-07,Tinta China,Neutros,72,72,69,60,46,49,57
 305-01,Koala,Neutros,16,14,11,0,208,217,224
 305-02,Mérida,Neutros,24,21,16,0,187,199,211
 305-03,Termómetro,Neutros,36,32,25,0,152,169,187
-305-04,Encanto,Arábigo Neutros,51,46,39,17,110,127,147
+305-04,Encanto Arábigo,Neutros,51,46,39,17,110,127,147
 305-05,Emporio,Neutros,61,57,50,33,80,95,115
 305-06,Alcatraz,Neutros,68,65,60,47,60,70,86
 305-07,Morfeo,Neutros,73,73,70,61,44,46,54
 306-01,Patoni,Neutros,15,13,11,0,213,219,226
 306-02,Selenio,Neutros,23,20,16,0,191,200,211
 306-03,Argos,Neutros,35,32,25,0,157,168,186
-306-04,Nave,Espacial Neutros,50,47,39,17,113,125,146
+306-04,Nave Espacial,Neutros,50,47,39,17,113,125,146
 306-05,Metrópoli,Neutros,59,57,50,32,86,96,116
 306-06,Romo,Neutros,67,66,60,47,63,69,85
 306-07,Catrín,Neutros,72,72,69,60,48,49,57
 307-01,Geisha,Neutros,15,13,11,0,214,220,226
 307-02,Blenda,Neutros,22,21,16,0,194,199,211
-307-03,Rain,Boot Neutros,34,32,25,0,159,167,185
+307-03,Rain Boot,Neutros,34,32,25,0,159,167,185
 307-04,Huapango,Neutros,49,47,39,17,118,125,146
 307-05,Benavides,Neutros,59,57,50,33,88,95,115
 307-06,Caballero,Neutros,66,65,60,47,65,70,85
@@ -2116,7 +2116,7 @@
 314-04,Varilla,Grises,44,41,39,17,131,140,146
 314-05,Ceniza,Grises,59,58,56,42,86,92,96
 314-06,Caverna,Grises,67,66,65,54,62,67,70
-314-07,Barro,Negro Grises,72,72,72,64,47,47,48
+314-07,Barro Negro,Grises,72,72,72,64,47,47,48
 315-01,Platino,Grises,13,11,11,0,218,224,225
 315-02,Almeja,Grises,24,22,20,0,186,196,200
 315-03,Alambre,Grises,36,33,31,6,152,163,169
@@ -2129,8 +2129,8 @@
 316-03,Lámina,Grises,36,33,30,4,152,163,172
 316-04,Pasador,Grises,45,42,38,16,127,138,149
 316-05,Motor,Grises,61,59,55,41,81,89,98
-316-06,Vía,Láctea Grises,68,66,64,53,61,66,73
-316-07,Viuda,Negra Grises,73,72,72,65,46,46,47
+316-06,Vía Láctea,Grises,68,66,64,53,61,66,73
+316-07,Viuda Negra,Grises,73,72,72,65,46,46,47
 317-01,Claret,Acentos,28,82,78,1,206,34,45
 317-02,Nectarina,Acentos,19,68,79,0,231,76,43
 317-03,Cúrcuma,Acentos,3,17,100,0,255,212,0
